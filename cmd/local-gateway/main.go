@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("local-gateway: AI coding context gateway")
-	fmt.Println("(sync test 2)")
+	fmt.Println("(sync test 3 - pre-push hook)")
 }
